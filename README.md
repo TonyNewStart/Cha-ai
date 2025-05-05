@@ -1,2 +1,2 @@
-# Cha-ai
+# Chat-ai
 OpenAI + Supabase AI chat bot
